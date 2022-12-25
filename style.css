@@ -1,0 +1,15 @@
+footer{
+    background-color: #1E1E1E;
+    color: rgb(149, 178, 203);
+    
+    text-align: center;
+    
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom:100px ;
+    
+
+}
